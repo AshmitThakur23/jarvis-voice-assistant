@@ -1,6 +1,6 @@
 # 🎤 Jarvis Voice Assistant
 
-![Jarvis Banner](https://i.imgur.com/8Xw7QkT.png)
+![Jarvis Banner](https://imgur.com/8Xw7QkT.png)
 
 > **A colorful, friendly, and fun voice assistant for your desktop!**  
 > Talk to Jarvis, get jokes, play music, search Wikipedia, and more — all with a positive vibe.
@@ -31,20 +31,20 @@
 
 ### 1. Clone the Repository
 
-```sh
+```bash
 git clone https://github.com/AshmitThakur23/jarvis-voice-assistant.git
 cd jarvis-voice-assistant
 ```
 
 ### 2. Install Dependencies
 
-```sh
+```bash
 pip install -r requirements.txt
 ```
 
 ### 3. Run Jarvis
 
-```sh
+```bash
 python main3.py
 ```
 
@@ -52,7 +52,7 @@ python main3.py
 
 ## 🛠️ Requirements
 
-- Python 3.7 or higher
+- Python 3.7+
 - Microphone
 - Internet connection (for Wikipedia & YouTube Music)
 
@@ -101,3 +101,5 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 This project is open source and available under the [MIT License](LICENSE).
 
 ---
+
+**Made with ❤️ for Ashmit!**
